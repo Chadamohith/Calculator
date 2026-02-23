@@ -21,8 +21,11 @@ This project is beginner-friendly and demonstrates basic Java concepts like:
 ## 📌 Features
 
 ✔ Takes two numbers as input
+
 ✔ Performs all four basic arithmetic operations
+
 ✔ Displays results instantly in the console
+
 ✔ Lightweight and easy to run
 
 ---
